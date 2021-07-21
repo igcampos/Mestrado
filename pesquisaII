@@ -1,1 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2021-07-21T17:02:18.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" version="14.9.1" etag="NxCPkwQIzJ5J-aFhgLpy" type="github"><diagram id="ujNxyOdrkzQYXhrTLtnx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-21T17:41:42.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="jGjtuSLtKjrqdpo2qf3_" version="14.9.1" type="github">
+  <diagram id="ujNxyOdrkzQYXhrTLtnx" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-1" value="Revisão sistemática" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="30" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-3" value="&lt;ul&gt;&lt;li&gt;&lt;i&gt;photovoltaic module&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="40" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-4" value="&lt;ul&gt;&lt;li&gt;&lt;i&gt;photovoltaic module reverse logistic&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="70" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-5" value="&lt;ul&gt;&lt;li&gt;&lt;i&gt;photovoltaic module recycling&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="100" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-6" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="200" as="sourcePoint" />
+            <mxPoint x="240" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-8" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="kP1ZEiXUlyVzjUL7JOVZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="200" as="sourcePoint" />
+            <mxPoint x="450" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-9" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="200" as="sourcePoint" />
+            <mxPoint x="480" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-10" value="Legislações Internacionais" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-12" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="200" as="sourcePoint" />
+            <mxPoint x="480" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-13" value="Legislações Brasileiras" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-14" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="360" as="sourcePoint" />
+            <mxPoint x="239.5" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-15" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="360" as="sourcePoint" />
+            <mxPoint x="479.5" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-16" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="360" as="sourcePoint" />
+            <mxPoint x="480" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-17" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359.5" y="450" as="sourcePoint" />
+            <mxPoint x="359.5" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-18" value="Análise dos principais componentes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="430" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-20" value="&lt;ul&gt;&lt;li&gt;&lt;i&gt;Relatório de metodologias de reciclagem&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-21" value="&lt;ul&gt;&lt;li&gt;&lt;i&gt;Elaboração de plano de reciclagem&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="460" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-22" value="&lt;ul&gt;&lt;li&gt;&lt;i&gt;Parcerias com empresas do setor&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="490" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-23" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359.5" y="600" as="sourcePoint" />
+            <mxPoint x="359.5" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-24" value="Testes de bancadas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="580" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-26" value="&lt;ul&gt;&lt;li&gt;&lt;i&gt;Laboratórios do Senai Cimatec&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="580" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-27" value="&lt;ul&gt;&lt;li&gt;&lt;i&gt;Análise de viabilidade econômica&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="610" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-28" value="&lt;ul&gt;&lt;li&gt;&lt;i&gt;Plano de logística reversa dos módulos&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="640" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-29" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359.5" y="750" as="sourcePoint" />
+            <mxPoint x="359.5" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kP1ZEiXUlyVzjUL7JOVZ-30" value="Elaboração de metodologias alternativas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
