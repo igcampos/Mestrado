@@ -1,1 +1,162 @@
-<mxfile host="app.diagrams.net" modified="2022-08-08T16:46:04.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.2.2" etag="WwY0kMvJGAJ_4D06xebx" type="github"><diagram id="U6e7Ja5xcxErXaVrrMQQ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-08T17:52:36.518Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="QVmlmJhIdQm1u2AqbyDe" version="20.2.2" type="github">
+  <diagram id="U6e7Ja5xcxErXaVrrMQQ" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pwgjW54ctM7p_FRDp787-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-1" target="pwgjW54ctM7p_FRDp787-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-1" target="pwgjW54ctM7p_FRDp787-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-1" value="Seleção do intervalo de h e cálculo da Fe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-2" target="pwgjW54ctM7p_FRDp787-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-2" target="pwgjW54ctM7p_FRDp787-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-2" value="Cálculo da Fe no PM, identificação do h no PM&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-4" target="pwgjW54ctM7p_FRDp787-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.075;entryY=1.16;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-4" target="pwgjW54ctM7p_FRDp787-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-4" target="pwgjW54ctM7p_FRDp787-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-4" value="Definição do Vt no PM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-8" value="Fe_PM = max(Fe_vector)&lt;br&gt;h_PM = Fe_vector(ft =Fe_PM)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="162.5" width="220" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-10" value="Com isso tem-se o intervalo em que o fino está aprisionado até o ponto onde a força drag excede a força eletrostática" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="225" width="220" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-12" target="pwgjW54ctM7p_FRDp787-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-12" target="pwgjW54ctM7p_FRDp787-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-12" value="Definição do Ft_min após PM (EB)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-13" value="h_vector = np.arange(0.2,100, 10^-2)&lt;br&gt;Fe_vector = electrostatic_force(i, ion_conc)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="50" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-20" value="Vt_min = min(vt_vector)&lt;br&gt;h_min_PM = vt_vector(vt = Vt_min)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="220" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-26" value="Fe_min = max(Fe_vector)&lt;br&gt;h_min_EB&amp;nbsp;= Fe_vector(ft =Fe_min)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="432.5" width="190" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.58;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-28" target="pwgjW54ctM7p_FRDp787-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-28" target="pwgjW54ctM7p_FRDp787-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-28" value="Fe_min &amp;lt; 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-30" value="Fe_PM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-31" target="pwgjW54ctM7p_FRDp787-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-31" value="Cálculo da Barreira energética" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-34" target="pwgjW54ctM7p_FRDp787-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-34" value="Cálculo do ponto de energia mínima do SM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-37" value="if i &amp;gt; h_min_SM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="650" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-38" value="(if i &amp;gt; h_PM) &amp;amp; (i&amp;lt;h_min)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="520" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-39" value="if h &amp;gt; h_PM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="360" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-40" value="if h &amp;lt; h_PM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="232.5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-41" target="pwgjW54ctM7p_FRDp787-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-41" value="Cálculo da Fe no SM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-43" value="if i &amp;gt; h_min_EB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="760" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-44" target="pwgjW54ctM7p_FRDp787-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-44" target="pwgjW54ctM7p_FRDp787-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-44" value="if EB &amp;lt;20" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="890" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-46" value="Fe_PM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="980" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-47" target="pwgjW54ctM7p_FRDp787-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-47" value="Fe_SM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="980" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-52" target="pwgjW54ctM7p_FRDp787-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-52" target="pwgjW54ctM7p_FRDp787-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-52" value="if Fe_SM &amp;lt; 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1090" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-55" value="Fe_SM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1100" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-56" target="pwgjW54ctM7p_FRDp787-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pwgjW54ctM7p_FRDp787-56" target="pwgjW54ctM7p_FRDp787-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-56" value="if EB &amp;gt; 20" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-58" value="Fe = 1*10^-18" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1220" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pwgjW54ctM7p_FRDp787-60" value="Fe_PM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="1220" width="90" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
