@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T17:48:07.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="19.0.3" etag="7Z0Q5cA-g2VLNuWzg1fw" type="github"><diagram id="JSUw0C9-VBLNxuJ1A7sN">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-31T17:56:22.819Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="C0V2iVcjKP83PhIkTAEH" version="19.0.3" type="github">
+  <diagram id="JSUw0C9-VBLNxuJ1A7sN" name="Page-1">
+    <mxGraphModel dx="942" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4x-DQHYkp52grmBN6DfU-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="4x-DQHYkp52grmBN6DfU-1" target="4x-DQHYkp52grmBN6DfU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4x-DQHYkp52grmBN6DfU-1" value="Inserir VGL nos alojadores:&lt;br&gt;Alojador 01 - VGL&amp;nbsp;&lt;span style=&quot;text-align: justify; text-indent: -0.31in; background-color: initial;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;1 ½”&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;Alojador 02 - VGL&amp;nbsp;&lt;span style=&quot;background-color: initial; text-align: justify; text-indent: -0.31in; font-family: Arial;&quot;&gt;1”&lt;/span&gt;&lt;span style=&quot;text-align: justify; text-indent: -0.31in; background-color: initial;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 20.5333px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="140" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4x-DQHYkp52grmBN6DfU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="4x-DQHYkp52grmBN6DfU-2" target="4x-DQHYkp52grmBN6DfU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4x-DQHYkp52grmBN6DfU-2" value="Conectar adaptador" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4x-DQHYkp52grmBN6DfU-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="4x-DQHYkp52grmBN6DfU-4" target="4x-DQHYkp52grmBN6DfU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4x-DQHYkp52grmBN6DfU-4" value="Ajustar pressão, conforme pressão de calibração." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4x-DQHYkp52grmBN6DfU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="4x-DQHYkp52grmBN6DfU-5" target="4x-DQHYkp52grmBN6DfU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4x-DQHYkp52grmBN6DfU-5" value="Desenroscar a manopla para para fechar a válvula." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="454" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4x-DQHYkp52grmBN6DfU-9" value="Despressurizar e retirar a VGL" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="620" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
