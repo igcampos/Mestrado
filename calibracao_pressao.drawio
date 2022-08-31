@@ -1,1 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T18:09:54.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="19.0.3" etag="b9WRwvdbSGjEaAdNdGld" type="github"><diagram id="rxZ4dezzvpTgmSHAzAfE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-31T18:31:00.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="otGBawV-s3eOYDCT4eN6" version="19.0.3" type="github">
+  <diagram id="rxZ4dezzvpTgmSHAzAfE" name="Page-1">
+    <mxGraphModel dx="942" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ol2zghhPIHlJnjsyTnLH-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ol2zghhPIHlJnjsyTnLH-1" target="Ol2zghhPIHlJnjsyTnLH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol2zghhPIHlJnjsyTnLH-1" value="&lt;span style=&quot;&quot;&gt;Inserir VGL nos alojadores:&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Alojador 01 - VGL&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: justify; text-indent: -0.31in;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;1 ½”&lt;/font&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;&quot;&gt;Alojador 02 - VGL&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: justify; text-indent: -0.31in; font-family: Arial;&quot;&gt;1”&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="140" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol2zghhPIHlJnjsyTnLH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ol2zghhPIHlJnjsyTnLH-2" target="Ol2zghhPIHlJnjsyTnLH-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ol2zghhPIHlJnjsyTnLH-2" value="Aumentar a pressão da bancada até a pressão do início de abertura da VGL." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol2zghhPIHlJnjsyTnLH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol2zghhPIHlJnjsyTnLH-3" target="Ol2zghhPIHlJnjsyTnLH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol2zghhPIHlJnjsyTnLH-3" value="Aumentar a pressão da bancada até a pressão do início de abertura da VGL." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="170" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol2zghhPIHlJnjsyTnLH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ol2zghhPIHlJnjsyTnLH-8" target="Ol2zghhPIHlJnjsyTnLH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol2zghhPIHlJnjsyTnLH-8" value="Continuar elevando a pressão até a vazão ser perceptível. A pressão observada será a pressão de ruptura" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="145" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ol2zghhPIHlJnjsyTnLH-10" value="&lt;span style=&quot;&quot;&gt;Despressurizar e retirar a VGL&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
