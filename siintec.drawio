@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T23:16:04.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="RYZh1CDFiD6wdHsfRuco" version="20.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-18T23:19:26.916Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Wh06iIFCK6rwmE4_w_XE" version="20.2.5" type="github">
   <diagram id="956HIycmh54M2R9257Hv" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NThP5FVMI5QnqY8fzNH7-1" value="zeta potential data collection of kaolinite and quartz&amp;nbsp;in the presence of í µí±í µí±Ží µí°¶í µí±™." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="120" height="90" as="geometry" />
+        <mxCell id="NThP5FVMI5QnqY8fzNH7-1" value="Collecting zeta potential data of kaolinite and quartz&amp;nbsp;in the presence of í µí±í µí±Ží µí°¶í µí±™." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="115" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NThP5FVMI5QnqY8fzNH7-2" value="&amp;nbsp;Development of four zeta potential prediction models&lt;br&gt;&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="130" width="120" height="70" as="geometry" />
