@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T22:59:13.015Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.2.5" etag="TLibxXD5ie-6pTIm4M7g" type="github"><diagram id="956HIycmh54M2R9257Hv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-18T23:16:04.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="RYZh1CDFiD6wdHsfRuco" version="20.2.5" type="github">
+  <diagram id="956HIycmh54M2R9257Hv" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NThP5FVMI5QnqY8fzNH7-1" value="zeta potential data collection of kaolinite and quartz&amp;nbsp;in the presence of í µí±í µí±Ží µí°¶í µí±™." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NThP5FVMI5QnqY8fzNH7-2" value="&amp;nbsp;Development of four zeta potential prediction models&lt;br&gt;&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NThP5FVMI5QnqY8fzNH7-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NThP5FVMI5QnqY8fzNH7-1" target="NThP5FVMI5QnqY8fzNH7-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="260" as="sourcePoint" />
+            <mxPoint x="200" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NThP5FVMI5QnqY8fzNH7-4" value="Model validation&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="235" y="250" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NThP5FVMI5QnqY8fzNH7-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NThP5FVMI5QnqY8fzNH7-2" target="NThP5FVMI5QnqY8fzNH7-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="sourcePoint" />
+            <mxPoint x="450" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NThP5FVMI5QnqY8fzNH7-6" value="Implemention of the DLVO model." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="425" y="180" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NThP5FVMI5QnqY8fzNH7-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NThP5FVMI5QnqY8fzNH7-4" target="NThP5FVMI5QnqY8fzNH7-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="300" as="sourcePoint" />
+            <mxPoint x="450" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="285" />
+              <mxPoint x="380" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NThP5FVMI5QnqY8fzNH7-8" value="pH sensitivity analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="610" y="90" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NThP5FVMI5QnqY8fzNH7-9" value="í µí±í µí±Ží µí°¶í µí±™ concentration&amp;nbsp;sensitivity analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="610" y="180" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NThP5FVMI5QnqY8fzNH7-10" value="Temperature&amp;nbsp;sensitivity analysis" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="610" y="270" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NThP5FVMI5QnqY8fzNH7-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NThP5FVMI5QnqY8fzNH7-6" target="NThP5FVMI5QnqY8fzNH7-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="320" as="sourcePoint" />
+            <mxPoint x="580" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NThP5FVMI5QnqY8fzNH7-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NThP5FVMI5QnqY8fzNH7-6" target="NThP5FVMI5QnqY8fzNH7-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="160" as="sourcePoint" />
+            <mxPoint x="580" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="215" />
+              <mxPoint x="580" y="125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NThP5FVMI5QnqY8fzNH7-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NThP5FVMI5QnqY8fzNH7-6" target="NThP5FVMI5QnqY8fzNH7-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="340" as="sourcePoint" />
+            <mxPoint x="550" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="215" />
+              <mxPoint x="580" y="305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
