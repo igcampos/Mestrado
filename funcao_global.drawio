@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T18:15:07.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="e8AssS9ge2pm9sO8lEHf" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T18:23:19.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Qd6BDDhMof0oxk2v-T0H" version="21.1.4" type="github">
   <diagram name="Page-1" id="rZvOIUDb-UgiruIImso8">
     <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -79,23 +79,20 @@
           <mxGeometry x="-13.713291305489875" y="-15" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tpiX2UqeTkmQybxUgkPM-34" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="560" y="370" width="255" height="25" as="geometry" />
+          <mxGeometry x="522.5" y="220" width="277.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="9GcNmrUak-LWxILDc-qs-14" value="Predições das composições do gás de saída" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="tpiX2UqeTkmQybxUgkPM-34" vertex="1">
-          <mxGeometry x="-5" y="-5" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="9GcNmrUak-LWxILDc-qs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#FFB570;entryX=0.788;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" parent="tpiX2UqeTkmQybxUgkPM-34" target="9GcNmrUak-LWxILDc-qs-14" edge="1">
+        <mxCell id="9GcNmrUak-LWxILDc-qs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#ff70a2;" parent="tpiX2UqeTkmQybxUgkPM-34" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="20" as="targetPoint" />
+            <mxPoint x="272.05882352941177" y="20" as="targetPoint" />
             <mxPoint y="20" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="160" y="20" />
-              <mxPoint x="160" y="20" />
+              <mxPoint x="174.11764705882354" y="20" />
+              <mxPoint x="174.11764705882354" y="20" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="tpiX2UqeTkmQybxUgkPM-38" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="520" y="180" width="340" height="30" as="geometry" />
+          <mxGeometry x="520" y="180" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tpiX2UqeTkmQybxUgkPM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="tpiX2UqeTkmQybxUgkPM-38" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -106,11 +103,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tpiX2UqeTkmQybxUgkPM-41" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="524" y="300" width="251" height="25" as="geometry" />
+        <mxCell id="9GcNmrUak-LWxILDc-qs-14" value="Fluxo transmembrana" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="tpiX2UqeTkmQybxUgkPM-38" vertex="1">
+          <mxGeometry x="70" y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tpiX2UqeTkmQybxUgkPM-42" value="Permeâncias e seletividades dos gases" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="tpiX2UqeTkmQybxUgkPM-41" vertex="1">
-          <mxGeometry x="-10" y="-5" width="230" height="30" as="geometry" />
+        <mxCell id="tpiX2UqeTkmQybxUgkPM-41" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="554" y="295" width="256" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="tpiX2UqeTkmQybxUgkPM-42" value="Permeâncias dos gases" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="tpiX2UqeTkmQybxUgkPM-41" vertex="1">
+          <mxGeometry x="29.800796812749002" y="-5" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tpiX2UqeTkmQybxUgkPM-79" value="&lt;div align=&quot;left&quot;&gt;Vazão&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="120.99" y="420" width="60" height="30" as="geometry" />
@@ -155,23 +155,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tpiX2UqeTkmQybxUgkPM-97" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="520" y="320" width="180" as="geometry" />
+          <mxGeometry x="520" y="320" width="250" as="geometry" />
         </mxCell>
         <mxCell id="tpiX2UqeTkmQybxUgkPM-98" value="" style="endArrow=none;dashed=1;html=1;rounded=0;shadow=0;strokeColor=#000000;fillColor=#9933FF;" parent="tpiX2UqeTkmQybxUgkPM-97" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint as="sourcePoint" />
-            <mxPoint x="190" as="targetPoint" />
+            <mxPoint x="263.88888888888886" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G2fZmf2o2PStY0HnktH1-1" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="580" y="430" width="161" height="25" as="geometry" />
+          <mxGeometry x="522.5" y="260" width="217.5" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="tpiX2UqeTkmQybxUgkPM-36" value="Pressões ótimas de entrada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="G2fZmf2o2PStY0HnktH1-1" vertex="1">
-          <mxGeometry x="-4.5" y="-5" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tpiX2UqeTkmQybxUgkPM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#FFD966;" parent="G2fZmf2o2PStY0HnktH1-1" edge="1">
+        <mxCell id="tpiX2UqeTkmQybxUgkPM-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#66ff85;" parent="G2fZmf2o2PStY0HnktH1-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="20" as="targetPoint" />
+            <mxPoint x="270.1863354037267" y="20" as="targetPoint" />
             <mxPoint y="19.670000000000016" as="sourcePoint" />
             <Array as="points">
               <mxPoint y="19.670000000000016" />
@@ -210,10 +207,10 @@
         </mxCell>
         <mxCell id="tpiX2UqeTkmQybxUgkPM-99" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;strokeColor=#000000;fillColor=#9933FF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="320" as="sourcePoint" />
-            <mxPoint x="720" y="320" as="targetPoint" />
+            <mxPoint x="783" y="320" as="sourcePoint" />
+            <mxPoint x="793" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="720" y="320" />
+              <mxPoint x="793" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -225,6 +222,31 @@
         </mxCell>
         <mxCell id="9GcNmrUak-LWxILDc-qs-11" value="Dados de temperatura, pressão, composição e &lt;br&gt;vazão da corrente de entrada" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="35" y="160" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1WJ2X0ivUdaweF878MrX-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40.99" y="510" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="1WJ2X0ivUdaweF878MrX-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#ff70a2;" edge="1" parent="1WJ2X0ivUdaweF878MrX-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="78.43137254901961" y="20" as="targetPoint" />
+            <mxPoint y="20" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="50.19607843137255" y="20" />
+              <mxPoint x="50.19607843137255" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tpiX2UqeTkmQybxUgkPM-36" value="Fator de seletividade&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="582" y="255" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1WJ2X0ivUdaweF878MrX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#66ff85;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="121" y="560" as="targetPoint" />
+            <mxPoint x="120" y="560" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="40.99000000000001" y="560" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
