@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-17T18:23:19.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Qd6BDDhMof0oxk2v-T0H" version="21.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-17T18:34:49.291Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="gV7DHQTZZAMv9Ajt411a" version="21.1.4" type="github">
   <diagram name="Page-1" id="rZvOIUDb-UgiruIImso8">
     <mxGraphModel dx="794" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
         <mxCell id="9GcNmrUak-LWxILDc-qs-3" value="&lt;font color=&quot;#ff3333&quot;&gt;Desenvolver modelo fenomenológico para predição e otimização do processo de separação de CO2 do gás natural usando membranas cerâmicas&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="320" y="180" width="200" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="9GcNmrUak-LWxILDc-qs-7" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Dados da literatura&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Ruído/Erro&lt;br&gt;Hardware/Software&lt;br&gt;Codificação&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="9GcNmrUak-LWxILDc-qs-7" value="&lt;div&gt;Dados de validação&lt;/div&gt;&lt;div&gt;Código de simulação&lt;/div&gt;&lt;div&gt;Método numérico&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="320" y="390" width="200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="9GcNmrUak-LWxILDc-qs-8" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=classic;endFill=1;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9GcNmrUak-LWxILDc-qs-3" target="9GcNmrUak-LWxILDc-qs-2" edge="1">
@@ -109,8 +109,8 @@
         <mxCell id="tpiX2UqeTkmQybxUgkPM-41" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="554" y="295" width="256" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="tpiX2UqeTkmQybxUgkPM-42" value="Permeâncias dos gases" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="tpiX2UqeTkmQybxUgkPM-41" vertex="1">
-          <mxGeometry x="29.800796812749002" y="-5" width="150" height="30" as="geometry" />
+        <mxCell id="tpiX2UqeTkmQybxUgkPM-42" value="Fator de seletividade e permeâncias dos gases" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="tpiX2UqeTkmQybxUgkPM-41" vertex="1">
+          <mxGeometry x="-30.199203187251" y="-5" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tpiX2UqeTkmQybxUgkPM-79" value="&lt;div align=&quot;left&quot;&gt;Vazão&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="120.99" y="420" width="60" height="30" as="geometry" />
@@ -236,8 +236,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tpiX2UqeTkmQybxUgkPM-36" value="Fator de seletividade&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="582" y="255" width="140" height="30" as="geometry" />
+        <mxCell id="tpiX2UqeTkmQybxUgkPM-36" value="Resíduo dos resultados preditos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="552" y="255" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1WJ2X0ivUdaweF878MrX-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#66ff85;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
