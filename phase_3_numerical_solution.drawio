@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T11:05:26.240Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pJsPsqVQhjQko6AJpZIK" version="24.0.2" type="github">
-  <diagram name="Página-1" id="cCGOpMRp_016Zx0O493O">
+<mxfile host="app.diagrams.net" modified="2024-03-11T11:06:23.118Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="qRsxaW9iVtyrHcs86oTz" version="24.0.2" type="github" pages="2">
+  <diagram name="Numerical solution" id="cCGOpMRp_016Zx0O493O">
     <mxGraphModel dx="1816" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -244,6 +244,14 @@
         <mxCell id="QcgDeCbc-j29FQ8NhQNn-23" value="End of the simulation" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-165" y="1950" width="80" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="op1jKHUxB4yz80DOvLv3" name="Runge-Kutta">
+    <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
